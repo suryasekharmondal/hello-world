@@ -1,2 +1,1 @@
-# hello-world
-a repository
+Hi Mankind
